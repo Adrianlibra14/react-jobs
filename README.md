@@ -8,8 +8,14 @@ To run the project (you'll need node installed in your machine):
 npm install
 ```
 
-And to start the server locally:
+To start the server locally:
 
 ```sh
 npm run dev
+```
+
+And to start the json web server run (in another shell):
+
+```sh
+npm run server
 ```
